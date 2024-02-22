@@ -1,0 +1,10 @@
+version: "3.5"
+services:
+  web-server:
+    image: nginx:alpine
+    container_name: react-app
+    ports:
+      - "8080:80"
+    volumes:
+      - "./dist:/usr/share/nginx/html"
+    restart: always
