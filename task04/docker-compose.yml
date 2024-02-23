@@ -1,0 +1,19 @@
+version: '3.5'
+services:
+  service-1:
+    build: ./service1
+    container_name: Service-1
+    volumes:
+      - "/temp/hw03:/webapps/public"
+    environment:
+      - FILE_NAME=common_file.txt
+      - FILE_CONTENT="DANIT. DevOps. Module2. Homework3. Task4"
+  service-2:
+    build: ./service2
+    container_name: Service-2
+    volumes:
+      - "/temp/hw03:/webapps/public"
+    environment:
+      - FILE_NAME=common_file.txt
+    depends_on:
+      - service-1

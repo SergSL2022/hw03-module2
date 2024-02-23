@@ -30,3 +30,15 @@
 ![alt text](<screenshots/Знімок екрана з 2024-02-23 05-04-36.png>)
 
 # Task 4
+![alt text](<screenshots/Знімок екрана з 2024-02-23 14-41-43.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 14-43-17.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-42-57.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-44-03.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-44-24.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-44-53.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-45-03.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-45-21.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-45-46.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-46-03.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-46-21.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-24 00-46-33.png>)
