@@ -1,0 +1,7 @@
+version: "3.5"
+services:
+  next-js-app:
+    build: .
+    ports:
+      - "3030-3040:3000"
+    restart: always

@@ -16,5 +16,17 @@
 ![alt text](<screenshots/Знімок екрана з 2024-02-23 01-51-26.png>)
 
 # Task 3
+![alt text](<screenshots/Знімок екрана з 2024-02-23 02-30-39.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 05-05-57.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 02-31-10.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 02-34-31.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 02-34-42.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 02-35-18.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 05-01-41.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 05-02-25.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 05-02-45.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 05-02-58.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 05-04-13.png>)
+![alt text](<screenshots/Знімок екрана з 2024-02-23 05-04-36.png>)
 
 # Task 4
